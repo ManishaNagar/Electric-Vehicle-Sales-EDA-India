@@ -170,7 +170,7 @@ Manisha Nagar
 ---
 
 # Connect With Me
-GitHub: https://github.com/ManishaNagar
+GitHub: https://github.com/ManishaNagar</br>
 LinkedIn: https://www.linkedin.com/in/nagar-manisha
 
 ---
