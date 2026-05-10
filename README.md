@@ -111,25 +111,6 @@ The dataset contains Electric Vehicle sales data across different states in Indi
 
 ---
 
-# ▶️ How to Run This Project
-
-## Step 1: Clone Repository
-
-git clone https://github.com/ManishaNagar/Electric-Vehicle-Sales-EDA-India.git
-
-## Step 2: Navigate to Project Folder
-
-cd Electric-Vehicle-Sales-EDA
-
-## Step 3: Install Dependencies
-
-pip install -r requirements.txt
-
-## Step 4: Run Jupyter Notebook
-
-jupyter notebook
-
----
 
 # 📦 Requirements
 
